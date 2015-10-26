@@ -50,7 +50,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was challenging to test inifinite scroller with Twitter API rate limit.
+Couldn't make UI elements located at the bottom of the screen move automatically above soft keyboard. 
 
 ## Open-source libraries used
 
