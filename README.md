@@ -50,8 +50,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was challenging to test inifinite scroller with Twitter API rate limit.
-Couldn't make UI elements located at the bottom of the screen move automatically above soft keyboard. 
+- It was challenging to test inifinite scroller with Twitter API rate limit.
+- Couldn't make UI elements located at the bottom of the screen move automatically above soft keyboard. 
 
 ## Open-source libraries used
 
