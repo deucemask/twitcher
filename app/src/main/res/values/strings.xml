@@ -4,5 +4,8 @@
     <string name="app_name">Twitcher</string>
     <string name="login_label">Twitter Login</string>
     <string name="title_activity_feed">Twitcher</string>
+    <string name="default_tweet_text">What\'s happening?</string>
+    <integer name="tweet_max_length">140</integer>
+    <string name="tweet_max_length_str">140</string>
 
 </resources>
